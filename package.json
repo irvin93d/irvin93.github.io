@@ -1,0 +1,25 @@
+{
+  "name": "irvin93d.github.io",
+  "version": "1.0.0",
+  "description": "Duane Irvin's GitHub Portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^1.12.4",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvin93d/irvin93d.github.io.git"
+  },
+  "author": "Duane Irvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvin93d/irvin93d.github.io/issues"
+  },
+  "homepage": "https://github.com/irvin93d/irvin93d.github.io#readme"
+}
