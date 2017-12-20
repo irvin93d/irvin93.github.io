@@ -1,0 +1,32 @@
+body {
+    font-family: Courier New, Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    font-size: 160%; 
+    font-weight: bold;
+    color: #118bff;
+}
+
+.no-margin {
+    margin:0;
+}
+.no-padding {
+    margin:0;
+}
+
+.fa-social {
+    color: #118bff;
+    font-size: 400%;
+}
+
+.fa-contact {
+    color: #118bff;
+}
+
+.dark {
+    color: #443986;
+}
