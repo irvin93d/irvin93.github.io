@@ -4,27 +4,25 @@ body {
 
 h1 {
     text-align: center;
+    text-transform: uppercase;
 }
 h2 {
-    font-size: 160%; 
+    font-size: 1.5em; 
     font-weight: bold;
     color: #118bff;
 }
 
-.no-margin {
-    margin:0;
-}
-.no-padding {
-    margin:0;
-}
-
 .fa-social {
     color: #118bff;
-    font-size: 400%;
+    margin-top: 0.5em;
+    font-size: 3em;
 }
 
 .fa-contact {
     color: #118bff;
+    font-size: 2em;
+    margin-top: 0.5em;
+    width: 2em;
 }
 
 .dark {
